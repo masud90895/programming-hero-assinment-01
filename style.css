@@ -113,3 +113,81 @@ body{
     text-align: center;
     margin-left: 22%;
 }
+.half-width{
+    display: flex;
+    width: 100%;
+    margin-bottom: 200px;
+}
+.half-width div{
+    width: 20%;
+    margin-left: 10%;
+}
+.half-width h1{
+    margin-bottom: 20px;
+}
+.half-width p{
+    color: gray;
+    font-size: 25px;
+}
+.live-depend{
+    display: flex;
+    margin-bottom: 200px;
+}
+.live-depend div{
+    width: 40%;
+    margin-left: 10%;
+}
+.live-depend h1{
+    font-size: 60px;
+    width: 90%;
+    margin-bottom: 30PX;
+}
+.live-depend p{
+    font-size: 25px;
+    color: gray;
+    margin-bottom: 40px;
+}
+.live-depend div img{
+    width: 456px;
+    height: 477px;
+    border-radius: 10px;
+}
+.live-depend div a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #FF5959;
+    border-radius: 10px;
+}
+.need-survive{
+    margin-right: 10%;
+}
+.subscribe{
+    margin-bottom: 150px;
+}
+.subscribe input{
+    font-size:40px;
+    padding: 15px 190px 15px 190px;
+    color: gray;
+    margin-left: 25%;
+    border-radius: 10px;
+    outline: none;
+}
+.subscribe a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: #FF5959;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: -8%
+}
+footer{
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+    background-color: black;
+}
